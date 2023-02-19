@@ -1,0 +1,1 @@
+ALTER TABLE users ADD sex VARCHAR(20) NULL;
